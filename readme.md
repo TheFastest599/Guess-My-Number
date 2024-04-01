@@ -17,7 +17,7 @@
 To get started with the game, clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/TheFastest599/Guess-My-Number
 
 Then, open the index.html file in your web browser.
 
